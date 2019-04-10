@@ -15,8 +15,7 @@
 * Can be served as skeleton for other flask app.
 
 ## requirements.txt
-<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>
-aniso8601==3.0.2
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>aniso8601==3.0.2
 certifi==2018.4.16
 chardet==3.0.4
 click==6.7
