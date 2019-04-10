@@ -1,5 +1,5 @@
 
-m Utils import Util
+from Utils import Util
 import requests
 import json
 
@@ -129,4 +129,3 @@ if __name__ == '__main__':
     main()
 
     pass
-
