@@ -12,6 +12,6 @@
   * BulletinForm
   * AccountForm
 
-Can be served as skeleton for other flask app.
+* Can be served as skeleton for other flask app.
 
 
